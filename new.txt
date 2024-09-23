@@ -1,0 +1,4 @@
+collaboration and remote repositories
+fetch the latest changes from a remote repository
+and rebase your local branch onto the
+updated remote branch
